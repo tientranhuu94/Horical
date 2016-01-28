@@ -11,8 +11,11 @@
     "url": "Horical"
   },
   "keywords": [
-    "Horical”
+    "Horical"
   ],
   "author": "Tran Huu Tien - Slinker",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
 }
